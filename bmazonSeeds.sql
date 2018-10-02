@@ -12,31 +12,46 @@ CREATE TABLE products (
 );
 
 INSERT INTO products (product_name, department_name, price,stock_quantity)
-VALUES ('Dove Conditioner', 'Cosmetics', 6.25, 627);
+VALUES ('iPad', 'Electronics', 700, 105);
 
 INSERT INTO products (product_name, department_name, price,stock_quantity)
-VALUES ('Granny Smith Apples', 'Produce', 0.35, 800);
+VALUES ('Xbox 1', 'Electronics', 299.99, 8);
 
 INSERT INTO products (product_name, department_name, price,stock_quantity)
-VALUES ('Nike Shorts', 'Clothing', 17.88, 250);
+VALUES ('Keurig', 'Kitchen', 45, 55);
 
 INSERT INTO products (product_name, department_name, price,stock_quantity)
-VALUES (('Tie Dye Shirt', 'Clothing', 5.55, 120);
+VALUES (('Pokemon Cards', 'Games', 5, 100);
 
 INSERT INTO products (product_name, department_name, price,stock_quantity)
-VALUES ('Ibuprophen', 'Pharmacy', 4.95, 389);
+VALUES ("'The Beatles' Vinyl Record", "Music", 100.00, 5);
 
 INSERT INTO products (product_name, department_name, price,stock_quantity)
-VALUES ('Ben & Jerry Ice Cream', 'Grocery', 3.25, 432);
+VALUES ("Pogo Stick", "Outdoors", 30.00, 200);
 
 INSERT INTO products (product_name, department_name, price,stock_quantity)
-VALUES ("Le Zeplin Number 1 CD", "Music", 9999, 1);
+VALUES ("Tent", "Camping", 80.00, 40);
 
 INSERT INTO products (product_name, department_name, price,stock_quantity)
-VALUES ('Brawny Paper Towels', 'Grocery', 4.25, 400);
+VALUES ("Diamond Earrings", "Jewelry", 2000.00, 20);
 
 INSERT INTO products (product_name, department_name, price,stock_quantity)
-VALUES ('Horizon Organic Milk', 'Grocery', 4.50, 200);
+VALUES ("Curtains", "Home", 39.99, 72);
 
 INSERT INTO products (product_name, department_name, price,stock_quantity)
-VALUES ('Yoga Mat', 'Sports', 12.75, 150);
+VALUES ("Car Mat - 4 Pack", "Automobile", 30.00, 107);
+
+INSERT INTO products (product_name, department_name, price,stock_quantity)
+VALUES ("Earbuds", "Electronic", 15.99, 5);
+
+INSERT INTO products (product_name, department_name, price,stock_quantity)
+VALUES ("Stapler", "Office", 5.95, 26);
+
+INSERT INTO products (product_name, department_name, price,stock_quantity)
+VALUES ("Notebook", "Office", 2.98, 1042);
+
+INSERT INTO products (product_name, department_name, price,stock_quantity)
+VALUES ("Candle", "Home", 12.5, 14);
+
+INSERT INTO products (product_name, department_name, price,stock_quantity)
+VALUES ("iPad Sleeve", "Electronics", 30.99, 50);
